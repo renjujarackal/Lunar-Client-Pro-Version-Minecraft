@@ -1,3 +1,6 @@
+<img width="292" height="173" alt="image" src="https://github.com/user-attachments/assets/acfdb642-8117-428c-afba-11b134adc017" />
+
+
 # Lunar Client Minecraft Edition – FPS Perfomance + Mods Pack
 
 [![Stars](https://img.shields.io/github/stars/somisid23/Lunar-Client-Minecraft-Edition)](https://github.com/somisid23/Lunar-Client-Minecraft-Edition)  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
